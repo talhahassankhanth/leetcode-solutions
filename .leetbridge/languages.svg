@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="345" viewBox="0 0 360 345" role="img" aria-labelledby="title desc">
+<title id="title">0 solutions by language</title>
+<desc id="desc">No solution languages have been synced yet.</desc>
+<defs>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff2e88"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<clipPath id="bar"><rect x="32" y="82" width="296" height="8" rx="4"/></clipPath>
+<style>
+.heading{font:600 22px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#ff4b91}
+.eyebrow{font:600 10px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;letter-spacing:1.2px;fill:#8b949e}
+.total{font:700 52px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#f0f6fc}
+.metric{font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#f0f6fc}
+.count{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#f0f6fc}
+.muted{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#8b949e}
+.language{font:700 31px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#f0f6fc}
+.link{font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#58a6ff}
+</style>
+</defs>
+<rect x="1" y="1" width="358" height="343" rx="12" fill="#141321" stroke="#30363d"/>
+<rect x="1" y="1" width="358" height="4" rx="2" fill="url(#accent)"/>
+<text x="32" y="45" class="heading">Languages</text>
+<circle cx="52" cy="145" r="16" fill="#ff4b91"/>
+<text x="82" y="155" class="language">No languages y…</text>
+<text x="82" y="188" class="muted">0 solutions</text>
+<text x="328" y="326" class="link" text-anchor="end">Open archive ↗</text>
+</svg>
