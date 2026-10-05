@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="58" viewBox="0 0 162 58" role="img" aria-labelledby="title">
+<title id="title">Hard</title>
+<defs>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff2e88"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<style>
+.label{font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#f0f6fc}
+.link{font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#58a6ff}
+</style>
+</defs>
+<rect x="1" y="1" width="160" height="56" rx="9" fill="#141321" stroke="#30363d"/>
+<rect x="1" y="1" width="160" height="3" rx="1.5" fill="url(#accent)"/>
+<circle cx="24" cy="30" r="7" fill="#ef4743"/>
+<text x="42" y="36" class="label">Hard</text>
+</svg>
