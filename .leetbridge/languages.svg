@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="345" viewBox="0 0 360 345" role="img" aria-labelledby="title desc">
-<title id="title">0 solutions by language</title>
-<desc id="desc">No solution languages have been synced yet.</desc>
+<title id="title">1 solutions by language</title>
+<desc id="desc">Python is the most-used solution language.</desc>
 <defs>
 <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff2e88"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
 <clipPath id="bar"><rect x="32" y="82" width="296" height="8" rx="4"/></clipPath>
@@ -18,8 +18,8 @@
 <rect x="1" y="1" width="358" height="343" rx="12" fill="#141321" stroke="#30363d"/>
 <rect x="1" y="1" width="358" height="4" rx="2" fill="url(#accent)"/>
 <text x="32" y="45" class="heading">Languages</text>
-<circle cx="52" cy="145" r="16" fill="#ff4b91"/>
-<text x="82" y="155" class="language">No languages y…</text>
-<text x="82" y="188" class="muted">0 solutions</text>
-<text x="328" y="326" class="link" text-anchor="end">Open archive ↗</text>
+<circle cx="52" cy="145" r="16" fill="#4b8bbe"/>
+<text x="82" y="155" class="language">Python</text>
+<text x="82" y="188" class="muted">1 solution</text>
+<text x="328" y="326" class="link" text-anchor="end">Browse Python ↗</text>
 </svg>

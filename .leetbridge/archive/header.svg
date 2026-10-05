@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="128" viewBox="0 0 1120 128" role="img" aria-labelledby="title desc">
 <title id="title">Solution Archive</title>
-<desc id="desc">0 accepted problems synced by LeetBridge</desc>
+<desc id="desc">1 accepted problem synced by LeetBridge</desc>
 <defs>
 <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff2e88"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
 <style>
@@ -12,7 +12,7 @@
 <rect x="1" y="1" width="1118" height="126" rx="12" fill="#141321" stroke="#30363d"/>
 <rect x="1" y="1" width="1118" height="4" rx="2" fill="url(#accent)"/>
 <text x="32" y="43" class="heading">Solution Archive</text>
-<text x="1088" y="42" class="subtitle" text-anchor="end">0 accepted problems synced by LeetBridge</text>
+<text x="1088" y="42" class="subtitle" text-anchor="end">1 accepted problem synced by LeetBridge</text>
 <line x1="32" y1="70" x2="1088" y2="70" stroke="#30363d"/>
 <text x="32" y="103" class="column">PROBLEM</text>
 <text x="610" y="103" class="column">DIFFICULTY</text>
